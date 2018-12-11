@@ -64,5 +64,6 @@ def daysBetweenDates(y1, m1, d1, y2, m2, d2):
  
     return days
 
+
 # test
 print daysBetweenDates(1994,2,26,1995,2,26)
